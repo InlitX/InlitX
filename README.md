@@ -21,7 +21,7 @@
     <img src="https://files.catbox.moe/4jbp7o.jpg" width="145" style="margin-top: 0; margin-bottom: 0;">
      <pre>
      ၊၊||၊|။||||။‌‌‌‌‌၊|  
-    » 🎵 InlitX - Passion Project «
+  » 🎵 InlitX - Passion Project «
   0:30 ━━━━━━●──────────────── 3:45
     ⇄   ◃◃   ⅠⅠ   ▹▹   ↻
              VOL: ▁▂▃▅▆▇ 100%
