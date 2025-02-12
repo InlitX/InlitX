@@ -1,16 +1,31 @@
-## Hi there 👋
+<p align="center">
+  <br>
+  <br>
+  <br>
+  <samp>Hello there 👋. I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://inlitx.github.io">InlitX</a></b>.
+    <br>💻 Programming | 🛠️ Development | 🔒 Hacking<br>
+    <br>
+    <br>
+  </samp>
 
-<!--
-**InlitX/InlitX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+  <img src="https://files.catbox.moe/i5ncvx.gif" width="190" style="margin-bottom: 50px;"/>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details align="center" open>
+  <summary><b><samp>Executing... 💻</samp></b></summary>
+  <br>
+  
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+    <img src="https://files.catbox.moe/4jbp7o.jpg" width="145" style="margin-top: 0; margin-bottom: 0;">
+     <pre>
+     ၊၊||၊|။||||။‌‌‌‌‌၊|  
+    » 🎵 InlitX - Passion Project «
+  0:30 ━━━━━━●──────────────── 3:45
+    ⇄   ◃◃   ⅠⅠ   ▹▹   ↻
+             VOL: ▁▂▃▅▆▇ 100%
+  </pre>
+  </div>
+  <br>
+</details>
