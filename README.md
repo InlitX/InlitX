@@ -18,7 +18,7 @@
   <br>
   
   <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <img src="https://files.catbox.moe/4jbp7o.jpg" width="145" style="margin-top: 0; margin-bottom: 0;">
+    <img src="https://github.com/user-attachments/assets/e5411e9f-a591-4002-bb50-ac079b4a136e" width="145" style="margin-top: 0; margin-bottom: 0;">
      <pre>
      ၊၊||၊|။||||။‌‌‌‌‌၊|  
   » 🎵 InlitX - Passion Project «
