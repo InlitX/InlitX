@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there 👋. I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://inlitx.xyz">InlitX</a></b>.
+  <samp>Hello there 👋. I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://links.inlitx.xyz">InlitX</a></b>.
     <br>💻 Programming | 🛠️ Development | 🔒 Hacking<br>
     <br>
     <br>
